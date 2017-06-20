@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PigTest
+comment0.text=\n\ The\ test\ class\ PigTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testPlayerRolls()
+comment2.params=
+comment2.target=void\ testPlayerHolds()
+comment3.params=
+comment3.target=void\ testComputerTurn()
+comment4.params=
+comment4.target=void\ testSetRoundScore()
+comment5.params=p
+comment5.target=void\ simulatePlayersTurn(Pig)
+comment6.params=
+comment6.target=void\ simulateGame()
+numComments=7

@@ -24,7 +24,7 @@ public class Drawing extends JPanel{
 
     public void paintComponent(Graphics g){
         Point contactInfoPosition = new Point(140, 230); // base position for contact info block
-        Point logoPosition = new Point(10, 10); // base position for logo block
+        Point logoPositionX = new Point(10, 40); // base position for logo block
         
         // this statement required
         super.paintComponent(g);

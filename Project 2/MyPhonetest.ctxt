@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyPhonetest
+comment0.text=\n\ Testing\ for\ MyPhone\ class\n\n\ @author\ Elijah\ Anderson\n\ @version\ 6\ June\ 2017\n
+comment1.params=a
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ \ \ \ public\ static\ void\ main\ (String[]\ a)\ {\n\ \ \ \ \ \ \ \ MyPhone\ mine\ \=\ new\ MyPhone("Amanda\ Jaffe",\ "1234567890");\n\ \ \ \ \n\ \ \ \ \ \ \ \ mine.setPhoneNumber("12345678");\n\n\ \ \ \ \ \ \ \ mine.printStatement();\n\ \ \ \ \ \ \ \ mine.streamVideo(100);\n\ \ \ \ \ \ \ \ mine.streamAudio(100);\n\ \ \ \ \ \ \ \ mine.chargeBattery(120);\n\ \ \ \ \ \ \ \ mine.sendText("Text\ message");\n\ \ \ \ \ \ \ \ mine.readText();\n\ \ \ \ \ \ \ \ mine.showBatteryLife();\n\n\ \ \ \ \ \ \ \ mine.streamVideo(-100);\n\ \ \ \ \ \ \ \ mine.streamAudio(-100);\n\ \ \ \ \ \ \ \ mine.streamVideo(0);\n\ \ \ \ \ \ \ \ mine.chargeBattery(-120);\n\ \ \ \ \ \ \ \ mine.chargeBattery(0);\n\n\ \ \ \ \ \ \ \ mine.streamVideo(720);\n\ \ \ \ \ \ \ \ mine.chargeBattery(120);\n\ \ \ \ \ \ \ \ mine.streamVideo(720);\n\ \ \ \ \ \ \ \ System.out.println(mine.getBatteryLife());\ //\ should\ be\ 0\n\n\ \ \ \ \ \ \ \ mine.printStatement();\n\ \ \ \ }\n
+numComments=2
